@@ -1,0 +1,17 @@
+streamlit
+google-api-python-client
+google-auth
+google-generativeai
+youtube-transcript-api
+python-dotenv
+youtube-transcript-api
+requests
+Pillow
+reportlab
+emoji
+langchain
+faiss-cpu
+sentence-transformers
+langchain-community
+langchain-google-genai
+
